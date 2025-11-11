@@ -1,0 +1,25 @@
+[project]
+name = "epsilon"
+version = "0.1.0"
+description = "Epsilon pipelines"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "typer>=0.12",
+  "rich>=13.7",
+  "pydantic-settings>=2.3",
+  "beautifulsoup4>=4.12",
+  "requests>=2.32",
+  "selenium>=4.20",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.2", "ruff>=0.6", "mypy>=1.10"]
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["epsilon*"]

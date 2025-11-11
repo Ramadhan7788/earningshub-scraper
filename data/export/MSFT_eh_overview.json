@@ -1,0 +1,37 @@
+{
+  "company": {
+    "ticker": "MSFT",
+    "company_name": null
+  },
+  "analyst_ratings": {
+    "indicator": "3 Months",
+    "Buy": "100%",
+    "Hold": "0%",
+    "Sell": "0%"
+  },
+  "upcoming": {
+    "ticker": "MSFT",
+    "quarter": "Q2 2026",
+    "date": "01/28/2026",
+    "time": "4:00 PM",
+    "rev_est": "80.23",
+    "rev_unit": "B",
+    "eps_est": "3.86"
+  },
+  "latest": {
+    "ticker": "MSFT",
+    "quarter": "Q1 2026",
+    "date": "10/29/2025",
+    "rev_est": "75.22",
+    "rev_est_unit": "B",
+    "rev_act": "77.67",
+    "rev_act_unit": "B",
+    "rev_prc": 3.26,
+    "rev_sta": "Beat",
+    "eps_est": "3.66",
+    "eps_act": "4.13",
+    "eps_prc": 12.84,
+    "eps_sta": "Beat",
+    "time": "4:05 PM"
+  }
+}

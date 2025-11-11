@@ -1,0 +1,37 @@
+{
+  "company": {
+    "ticker": "TGT",
+    "company_name": null
+  },
+  "analyst_ratings": {
+    "indicator": "3 Months",
+    "Buy": "38%",
+    "Hold": "46%",
+    "Sell": "15%"
+  },
+  "upcoming": {
+    "ticker": "TGT",
+    "quarter": "Q3 2025",
+    "date": "11/19/2025",
+    "time": "6:30 AM",
+    "rev_est": "25.41",
+    "rev_unit": "B",
+    "eps_est": "1.75"
+  },
+  "latest": {
+    "ticker": "TGT",
+    "quarter": "Q2 2025",
+    "date": "08/20/2025",
+    "rev_est": "24.91",
+    "rev_est_unit": "B",
+    "rev_act": "25.21",
+    "rev_act_unit": "B",
+    "rev_prc": 1.22,
+    "rev_sta": "Beat",
+    "eps_est": "2.05",
+    "eps_act": "2.05",
+    "eps_prc": 0.0,
+    "eps_sta": "Beat",
+    "time": "6:30 AM"
+  }
+}

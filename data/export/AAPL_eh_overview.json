@@ -1,0 +1,37 @@
+{
+  "company": {
+    "ticker": "AAPL",
+    "company_name": null
+  },
+  "analyst_ratings": {
+    "indicator": "3 Months",
+    "Buy": "70%",
+    "Hold": "22%",
+    "Sell": "9%"
+  },
+  "upcoming": {
+    "ticker": "AAPL",
+    "quarter": "Q1 2026",
+    "date": "01/29/2026",
+    "time": "4:00 PM",
+    "rev_est": "137.15",
+    "rev_unit": "B",
+    "eps_est": "2.65"
+  },
+  "latest": {
+    "ticker": "AAPL",
+    "quarter": "Q4 2025",
+    "date": "10/30/2025",
+    "rev_est": "101.83",
+    "rev_est_unit": "B",
+    "rev_act": "102.47",
+    "rev_act_unit": "B",
+    "rev_prc": 0.62,
+    "rev_sta": "Beat",
+    "eps_est": "1.75",
+    "eps_act": "1.85",
+    "eps_prc": 5.71,
+    "eps_sta": "Beat",
+    "time": "4:30 PM"
+  }
+}
